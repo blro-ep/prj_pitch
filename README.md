@@ -11,12 +11,26 @@ Keine dreckigen Pfoten mehr
 ### Projekt Idee / Ziele definieren (Messbar SMART)
 
 #### Spezifisch
+- Die Produktionskosten sollen zwischen xx und xx sein
+- Das Material soll ein Mix von Kunstleder / Polyester sein
+- Der schuh soll für mittelgrosse / grosse Hunde produziert werden (Pfotendurchmesser 5 - 7,5 cm).
+
 
 #### Messbar
+- Rutschfeste Lauffläche
+- atmungsaktives Mesh-Material
+- wasserabweisendes Material
+- Reflektierende Laschen
+- Atmungsaktiv
 
 #### Akzeptiert
+- senkt das Infektionsrisiko
+- gute Standfestigkeit bei glatten Bodenbelägen
+- Schutz im Winter vor Kälte / Streusalz / Splitt
+- unterstützt die Heilung von Verletzungen
 
 #### Realistisch
+
 
 #### Terminiert
 		
