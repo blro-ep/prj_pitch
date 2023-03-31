@@ -2,6 +2,11 @@
 
 ## Hundeschuhe
 
+Nur Strassenhunde zeigen noch Fell!
+
+
+Hast du auch die Nasen voll von diesen Matschpfoten?
+Keine dreckigen Pfoten mehr
 
 ### Projekt Idee / Ziele definieren (Messbar SMART)
 		
@@ -16,7 +21,8 @@
 				
                 
 #### Projektmethode
-				
+
+
 
 				
 #### Wirtschaftlichkeit (je nach Zeit)
