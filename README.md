@@ -13,15 +13,15 @@ Keine dreckigen Pfoten mehr
 #### Spezifisch
 - Die Produktionskosten sollen zwischen xx und xx sein
 - Das Material soll ein Mix von Kunstleder / Polyester sein
-- Der schuh soll für mittelgrosse / grosse Hunde produziert werden (Pfotendurchmesser 5 - 7,5 cm).
-
+- Der schuh soll für mittelgrosse / grosse Hunde produziert werden (Pfotendurchmesser 5 - 7,5 cm). Dies soll in 4 verschieden Grössen abgedeckt werden.
+- Im Lieferumfang sind 4 Stk. enthalten
 
 #### Messbar
-- Rutschfeste Lauffläche
+- rutschfeste Lauffläche
 - atmungsaktives Mesh-Material
 - wasserabweisendes Material
-- Reflektierende Laschen
-- Atmungsaktiv
+- reflektierende Laschen
+- atmungsaktives Mesh-Material
 
 #### Akzeptiert
 - senkt das Infektionsrisiko
@@ -30,10 +30,12 @@ Keine dreckigen Pfoten mehr
 - unterstützt die Heilung von Verletzungen
 
 #### Realistisch
-
+- In einer ersten Chage werden xxxx Stk. pro grösse Produziert
+- Nachprduktion soll innerhalb von x Wochen möglich sein
 
 #### Terminiert
-		
+Prototype wird im QX XXXX fertiggestellt
+Test für Dauerbelastung wird im Qx XXXX druchgeführt		
 			
 ### Fokus definieren (Welche Elemente möchte ich präsentieren)
 
@@ -42,6 +44,13 @@ Keine dreckigen Pfoten mehr
 
 
 #### SEUSAG
+Systemgrenzen
+Einflussgrössen
+Unter- /Teilsysteme
+Schnittstellen
+Analyse von Elementen, Dimensionen, Beziehungen
+Gemeinsamkeiten
+
 				
                 
 #### Projektmethode
