@@ -9,6 +9,16 @@ Hast du auch die Nasen voll von diesen Matschpfoten?
 Keine dreckigen Pfoten mehr
 
 ### Projekt Idee / Ziele definieren (Messbar SMART)
+
+#### Spezifisch
+
+#### Messbar
+
+#### Akzeptiert
+
+#### Realistisch
+
+#### Terminiert
 		
 			
 ### Fokus definieren (Welche Elemente möchte ich präsentieren)
