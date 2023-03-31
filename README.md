@@ -4,9 +4,8 @@
 
 Nur Strassenhunde zeigen noch Fell!
 
-
 Hast du auch die Nasen voll von diesen Matschpfoten?
-Keine dreckigen Pfoten mehr
+Keine dreckigen Pfoten mehr, dafür samtweiche Fussballen und saubere Nägel.
 
 ### Projekt Idee / Ziele definieren (Messbar SMART)
 
@@ -41,7 +40,9 @@ Test für Dauerbelastung wird im Qx XXXX druchgeführt
 
 
 #### Nutzen für Kunde aufzeigen (Usecase)
-
+- Schonung der Hundefüsse
+- Hilfe beim Heilungsprozess
+- Weniger Aufwand für den Hundebesitzer (drekige Pfoten)
 
 #### SEUSAG
 Systemgrenzen
