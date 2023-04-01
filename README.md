@@ -12,7 +12,7 @@ Keine dreckigen Pfoten mehr, dafür samtweiche Fussballen und saubere Nägel.
 #### Spezifisch
 - Die Produktionskosten sollen zwischen xx und xx sein
 - Das Material soll ein Mix von Kunstleder / Polyester sein
-- Der schuh soll für mittelgrosse / grosse Hunde produziert werden (Pfotendurchmesser 5 - 7,5 cm). Dies soll in 4 verschieden Grössen abgedeckt werden.
+- Der schuh soll für mittelgrosse / gros ü'se Hunde produziert werden (Pfotendurchmesser 5 - 7,5 cm). Dies soll in 4 verschieden Grössen abgedeckt werden.
 - Im Lieferumfang sind 4 Stk. enthalten
 
 #### Messbar
@@ -32,6 +32,7 @@ Keine dreckigen Pfoten mehr, dafür samtweiche Fussballen und saubere Nägel.
 - In einer ersten Chage werden xxxx Stk. pro grösse Produziert
 - Nachprduktion soll innerhalb von x Wochen möglich sein
 
+
 #### Terminiert
 Prototype wird im QX XXXX fertiggestellt
 Test für Dauerbelastung wird im Qx XXXX druchgeführt		
@@ -40,9 +41,10 @@ Test für Dauerbelastung wird im Qx XXXX druchgeführt
 
 
 #### Nutzen für Kunde aufzeigen (Usecase)
-- Schonung der Hundefüsse
-- Hilfe beim Heilungsprozess
+- Schonung der Hundepfoten
+- Hilfe beim Heilungsprozess von verletzten Hundepfoten
 - Weniger Aufwand für den Hundebesitzer (drekige Pfoten)
+
 
 #### SEUSAG
 Systemgrenzen
