@@ -4,6 +4,8 @@
 
 Nur Strassenhunde zeigen noch Fell!
 
+Wir sind der Webstore speeziallisiert auf Hundeschue. 
+
 Hast du auch die Nasen voll von diesen Matschpfoten?
 Keine dreckigen Pfoten mehr, dafür samtweiche Fussballen und saubere Nägel.
 
@@ -42,7 +44,9 @@ Test für Dauerbelastung wird im Qx XXXX druchgeführt
 			
 ### Fokus definieren (Welche Elemente möchte ich präsentieren)
 
-Nuzen für den Kunden 
+- Nuzen für den Kunden
+- SMART 
+- Lean
 
 #### Nutzen für Kunde aufzeigen (Usecase)
 - Schonung der Hundepfoten
@@ -64,44 +68,29 @@ Gemeinsamkeiten
 
 Lean 
 small steps, consistent tracking, and frequent course corrections
-he retailer benefits from the percentage -> Definieren 
-Wir sind der Webstore speeziallisiert auf Hundeschue. 
+
 Bei uns steht die Hundenzufriedenheit an erster stelle.
 Produkte werden via Droppshiping direkt an den Kunden geliefert und es wird kein Lagerstand geben.
+So können wir uns um unsere Kernkompetenz kümmer und müssen uns nicht um versenden und lagerbestand kümmern.
+
 Produkte werden auf ein minimum reduziert jedoch in jeweils 6 verschiedenen Farben erhältlich sein 
 
 Speed to market ist ein key element und wird genutz um neue Trends zu setzen.
 Trends wechseln heutzutage in so kurzer Zeit das bei unterschreiten klar definierter SMART Zielen das produkt fallen gelassen wird.
 
+Falls ein Produkt xx verkauft wird, wird begonnen die Produktion mit eigenen Partnern sicherzustellen um einen vorteil gegenüber den konkurenz zu erlangen. 
 
-don’t have to concern themselves with the shipping or carrying of inventory
+### Vermarktung 
+Unsere datengesteuerte und kundenorientierte Marketingstrategien wird wie folgt umgesetzt. 
+Anstelle einer zusammenarbeit mit namhaften Influencern bei denen hohe Investitionen erforderlich sind, werden wir für die Vermarktung von Produktgruppen eng mit Mikro-Influencern zusammen arbeiten.
+Da Micro Influencer ihre Follower noch persönlich kennen und so einen näheren bezug zu den relevante Gesprächsgruppen hat.
+Und wir so die Vermarkungskosten senken und mit besondere Aktionsrabatte oder Gift Cards vergüten können.
 
-retail processes for their own-branded products
-
-This affords them a substantial market advantage over competing vendors. Why pay more when you can pay less?
-
-Micro Influencer kennen ihre Follower noch persönlich
-
-relevant conversation groups that a buyer engages
-
-As a response to the high-stakes investments required for working with big-name influencers, the industry has seen the rise of the micro-influencer
-
-
-Identity: A short overview of your business
+Ergänzt wird das Marketing mit einer E-Mail Kampagne die auf kundendaten basiert und von Mischine Learning Systemen durchgeführt wird. 
 
 Milestones
 
 Skallable 
+without waste
 
-#### Gift Cards
-customers special promotional discounts and other gift cards 
-
-Partners and key resources
-
-adds value to management, without waste
-Webhost
-data-driven and customer-centric marketing strategies
-email campaigns with machine learning systems   
-
-				
 #### Wirtschaftlichkeit (je nach Zeit)
