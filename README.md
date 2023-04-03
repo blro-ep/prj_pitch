@@ -13,7 +13,7 @@ Keine dreckigen Pfoten mehr, dafür samtweiche Fussballen und saubere Nägel.
 
 #### Spezifisch
 - Die Produktionskosten sollen zwischen xx und xx sein
-- Die Produktmarge muss mindestens bei 100% liegen
+- Die Produkt marge muss mindestens bei 100% liegen
 - Produkt muss inert xx Tagen gelifert sein.
 - Bei mehr als 20% Retouren wird das Produkt neu überarbeitet 
 - Das Material soll ein Mix von Kunstleder / Polyester sein
@@ -92,5 +92,7 @@ Milestones
 
 Skallable 
 without waste
+
+
 
 #### Wirtschaftlichkeit (je nach Zeit)
